@@ -2,7 +2,7 @@
 
 ## Introduction
 
-*Element* est une application permettant de communiquer de façon efficace et sécurisé.
+`Element` est une application permettant de communiquer de façon efficace et sécurisé.
 
 ## Premier pas avec Element
 
