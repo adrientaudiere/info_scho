@@ -64,15 +64,14 @@ Dans le panneau de gauche (cadre rose), vous avez des liens vers (i) un document
 
 ### Autres fonctionnalités
 
-– Enregistrement : vous pouvez enregistrer vos sessions qui seront ainsi sauvegardées sur le site. 
+?> **Enregistrement** : vous pouvez enregistrer vos sessions qui seront ainsi sauvegardées sur le site. 
 
-– Passer un diapo en pdf : permet de charger une présentation en pdf qui sera visible par tout le monde. Fonctionne mieux que le partage d'écran direct et permet à d'autres personnes de dessiner dessus grâce aux outils du tableau blanc disponible en cliquant sur la main (figure ci-dessous).
-
-
-– Partager son écran : en cliquant sur l'icône mentionner dans la [figure](#fig_reu_bbb) précédente.
+?> **Passer un diapo en pdf** : permet de charger une présentation en pdf qui sera visible par tout le monde. Fonctionne mieux que le partage d'écran direct et permet à d'autres personnes de dessiner dessus grâce aux outils du tableau blanc disponible en cliquant sur la main (figure ci-dessous).
 
 
-– Créer un sondage : On peut facilement créer des sondages auxquels les participants répondent puis publier les résultats à tous les participants.
+?> **Partager son écran** : en cliquant sur l'icône mentionner dans la [figure](#fig_reu_bbb) précédente.
 
 
-?> 
+?> **Créer un sondage** : On peut facilement créer des sondages auxquels les participants répondent puis publier les résultats à tous les participants.
+
+

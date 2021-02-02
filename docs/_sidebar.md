@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
 
-* [Acceuil](/)
-* [Element](/Element.md)
-* [Visio](/BBB.md)
+* [Accueil](/)
+* [Discussion avec Element.io](/Element.md)
+* [Visioconférence avec BigBlueButton](/BBB.md)
 * [À propos](/apropos.md)
