@@ -46,13 +46,37 @@ modifier les paramètres du salon.
 
 #### Le concept des communautés
  
-Le protocole Matrix qui est utilisé par l'application Element.io permet de communiquer avec de nombreuses personnes, que ce soit sur des sujets professionnels ou privés. Pour regrouper les salons selon des thématiques on peut utiliser des communautés. Une 
+Le protocole Matrix qui est utilisé par l'application Element.io permet de communiquer avec de nombreuses personnes, que ce soit sur des sujets professionnels ou privés. Pour regrouper les salons selon des thématiques on peut utiliser des communautés. Une communauté sert donc à regrouper des utilisateurs (par ex. les membres du « cercle pédago » de Scholae) qui partagent des salons communs.
+
+?> Les communautés à Scholae serait aux nombres de deux initialement : la **communauté générale** (lycéen + adulte) et la communauté du **cercle pédago**. 
 
 #### Le concept des salons
 
-Dans les logiciels de communication par salon, l'idée 
- canaux 
- Les
+Dans les logiciels de communication le concept de **salons** (= canaux sous Slack) est central. Un salon regroupe un ensemble d'utilisateurs autour d'une thématique. Dans le cadre de Scholae, nous proposons l'organisation en Salon décrite ci dessous
+
+
+- **Communauté générale** :
+  - `Discussion générale` ![i](/_media/bagde_rect_G.svg ':class=img-in-text')
+  - Seconde
+    - `Seconde` discussion générale ![i](/_media/bagde_rect_2nd.svg ':class=img-in-text')
+    - `2nd-Matière 1` (par ex. «2nd-SNT») ![i](/_media/bagde_rect_SNT_2nd.svg ':class=img-in-text')
+    - `2nd-Matière …` 
+  - Première
+    - `Première` discussion générale ![i](/_media/bagde_rect_1er.svg ':class=img-in-text')
+    - `1-Matière 1` (par ex. «1-NSI») ![i](/_media/bagde_rect_NSI_1er.svg ':class=img-in-text')
+    - `1-Matière …` 
+  - Seconde
+    - `Terminal` discussion générale ![i](/_media/bagde_rect_Ter.svg ':class=img-in-text')
+    - `T-Matière 1` (par ex. «T-NSI») ![i](/_media/bagde_rect_NSI_Ter.svg ':class=img-in-text')
+    - `T-Matière …` 
+
+- **Cercle pédago** :
+  - `Discussion générale` ![i](/_media/bagde_G.svg ':class=img-in-text')
+  - `Calendrier`  ![i](/_media/bagde_cal.svg ':class=img-in-text')
+  - `Vie de l'élève` ![i](/_media/bagde_vde.svg ':class=img-in-text')
+  - `2nde` ![i](/_media/bagde_2nd.svg ':class=img-in-text')
+  - `1ère` ![i](/_media/bagde_1er.svg ':class=img-in-text')
+  - `Term` ![i](/_media/bagde_Ter.svg ':class=img-in-text')
 
 #### Le concept des fils de discussion
 
@@ -63,11 +87,22 @@ Dans un salon, plusieurs discussions peuvent avoir lieu. Il est donc important d
 - Autres options
 
 
-#### À qui je parle?
+#### À qui je parle ? Qui à vu mes messages ?
+
+Toutes les personnes qui sont inscrites dans le salon peuvent voir vos messages. La liste des personnes qui ont accès au salon se trouve dans la colonne de droite lorsque l'on clique sur l'icone  <i class="fa fa-info-circle" aria-hidden="true"></i>. 
+
+À côté de chaque message, vous avez également une liste de badge qui indique qui a vu vos messages.
+
+#### Comment j'écrit du texte ?
+
+Vous pouvez utilisez le format [markdown](https://daringfireball.net/projects/markdown/) dans vos messages. C'est très simple, par ex. pour mettre un mot en gras on utilise entoure un mot avec deux étoiles. Pour indiquer un titre de rang 2 on utilise deux # devant le titre. Pour faire un lien hypertexte on met le texte du lien entre crochet puis l'adresse du lien entre parenthèse. Vous pouvez jouer avec ce langage sur le site [Dillinger](https://dillinger.io/).
+
+Par ailleurs, quand vous tapez sur la touche `entrée`, vous envoyez le message. Pour passer à la ligne il faut tapez sur la touche `entrée` tout en maintenant la touche `maj` enfoncée.
 
 
 ## Les paramètres importants
 
+### Les paramètres de notification
 
 ## Astuces
 
