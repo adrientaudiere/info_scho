@@ -29,16 +29,18 @@ Lors de votre première communication à l'application, Element permet de `gén�
 
 ![Interface de l'application Element.io](_media/element.webp)
 
-À droite, les **communautés** sont représentées par des badges qui vous permettent de filtrer les salons que vous regardez. Dans la colonne suivante votre nom d'utilisateur permet, en cliquant dessus, d'ouvrir des options (mode sombres, paramètres…). Au dessous une barre de recherche permet de filtrer les salons. En cliquant sur la boussole on peut rechercher un salon public ou une personne. 
+À droite (rectangle jaune), les **communautés** sont représentées par des badges qui vous permettent de filtrer les salons que vous regardez. Dans la colonne suivante votre nom d'utilisateur (rectangle blanc) permet, en cliquant dessus, d'ouvrir des options (mode sombres, paramètres…). Au dessous une barre de recherche permet de filtrer les salons. En cliquant sur la boussole on peut rechercher un salon public ou une personne. 
 
-Encore en dessous, vos salons sont classés selon plusieurs critères:
+Encore en dessous (rectangle violet), vos salons sont classés selon plusieurs critères:
 - Vos salons `favoris`. Pour mettre un salon en favoris il faut survoler le salon, cliquer sur <i class="fa fa-ellipsis-h" aria-hidden="true"></i> puis sur `favoris`.
 - Les discussions directes (deux à deux) sont classés dans la catégorie `personnes`.
 - Ensuite viennent les salons non classés favoris ni priorité basse.
 - Puis les salons `priorité basse`.
 - Enfin une section historique contiendra les salons que vous avez quitté ou qui ont été supprimé.
 
-La colonne centrale est l'emplacement du texte de discussion. En bas de cette colonne se trouve la zone de texte pour écrire un nouveau message ou partager des documents. Enfin, en cliquant sur le symbole <i class="fa fa-info-circle" aria-hidden="true"></i> en haut à droite on ouvre les options du salon qui permettent notamment de voire les personnes qui participent au salon, de retrouver les fichier partagés ou encore de 
+La colonne centrale (rectangle vert) est l'emplacement du texte de discussion. En bas de cette colonne se trouve la zone de texte (rectangle bleu) pour écrire un nouveau message ou partager des documents. 
+
+Enfin, en cliquant sur le symbole <i class="fa fa-info-circle" aria-hidden="true"></i> en haut à droite on ouvre les options du salon à droite (rectangle rose) qui permettent notamment de voir les personnes qui participent au salon, de retrouver les fichier partagés ou encore de 
 modifier les paramètres du salon. 
 
 
