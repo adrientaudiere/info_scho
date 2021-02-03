@@ -1,10 +1,10 @@
 # Big Blue Button
 
+[<i class="fa fa-external-link" aria-hidden="true"></i> Instance Visio de Scholae](https://visio.microlinux.fr/b)
+
 `Big Blue Button` (BBB) est un logiciel libre qui permet d'effectuer des appels en visio. Grâce à [Microlinux](https://microlinux.fr/) nous avons accès à notre instance BBB à [cette adresse](https://visio.microlinux.fr/b).
 
-## Présentation de l'outils de visio Big Blue Button
-
-### Big Blue Button c’est quoi
+## Big Blue Button c’est quoi
 
 C'est un outil qui sert à passer des appels en visioconférence, à deux ou plusieurs. Contrairement à d'autres outils du même genre, c’est un outil éthique qui garantit la sécurité des données des utilisateurs. Il est donc **respectueux de la vie privée** du personnel de Scholae mais aussi de ses élèves.
 
@@ -19,7 +19,7 @@ C'est un outil qui sert à passer des appels en visioconférence, à deux ou plu
 **Inscription** : La sécurité et l’éthique ont une contrepartie. Tout utilisateur doit d'abord s'inscrire, puis être validé par Nico ou Adrien. C'est le seul moyen de faire face à des tentatives de piratage en pagaille. 
 </blockquote>
 
-## Utilisation de l'outil
+## Utilisation de BBB
 
 ### Étape 1 : Inscription sur l’outil de visio
 

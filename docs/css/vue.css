@@ -555,32 +555,44 @@ section.cover ul {
   max-width: 500px;
   padding: 0;
 }
-section.cover .cover-main > p:last-child a {
+section.cover .cover-main p a{
   border-color: var(--theme-color, #42b983);
   border-radius: 2rem;
   border-style: solid;
   border-width: 1px;
+  background-color: rgba(255, 255, 255, 0.5);
   box-sizing: border-box;
   color: var(--theme-color, #42b983);
   display: inline-block;
   font-size: 1.05rem;
+  font-weight: 900;
   letter-spacing: 0.1rem;
   margin: 0.5rem 1rem;
   padding: 0.75em 2rem;
   text-decoration: none;
   transition: all 0.15s ease;
 }
-section.cover .cover-main > p:last-child a:last-child {
+.bnt-vide a{
+  border-color: var(--theme-color, #42b983);
+  border-radius: 2rem;
+  border-style: solid;
+  border-width: 1px;
+  background-color: rgba(255, 255, 255, 0.5);
+  box-sizing: border-box;
+  color: var(--theme-color, #42b983);
+  font-size: 1.05rem;
+  font-weight: 900;
+  letter-spacing: 0.1rem;
+  margin: 0.25rem;
+  padding: 0.5em 0.75rem;
+  text-decoration: none;
+  transition: all 0.15s ease;
+}
+section.cover .cover-main p span.btn-plein a{
   background-color: var(--theme-color, #42b983);
   color: #fff;
 }
-section.cover .cover-main > p:last-child a:last-child:hover {
-  color: inherit;
-  opacity: 0.8;
-}
-section.cover .cover-main > p:last-child a:hover {
-  color: inherit;
-}
+
 section.cover blockquote > p > a {
   border-bottom: 2px solid var(--theme-color, #42b983);
   transition: color 0.3s;
@@ -673,11 +685,11 @@ body {
 }
 .markdown-section h2 {
   font-size: 1.75rem;
-  margin: 45px 0 0.8rem;
+  margin: 30px 0 0.8rem;
 }
 .markdown-section h3 {
   font-size: 1.5rem;
-  margin: 40px 0 0.6rem;
+  margin: 20px 0 0.6rem;
 }
 .markdown-section h4 {
   font-size: 1.25rem;
