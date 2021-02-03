@@ -50,7 +50,7 @@ C'est un outil qui sert à passer des appels en visioconférence, à deux ou plu
 
 ### Étape 3 : Mener une réunion 
 
-![Réunion BBB](_media/reu_bbb.png ':id=fig_reu_bbb')
+![Réunion BBB](_media/reu_bbb.webp ':id=fig_reu_bbb')
 
 Dans le panneau de gauche (cadre rose), vous avez des liens vers (i) un document de notes partagées, (ii) la liste des utilisateurs et (iii) la discussion publique (c'est à dire le fil de discussion général) qui est affiché dans la colonne centrale (cadre orange). Enfin à droite (cadre jaune), se situe la zone de diapositive qui sera également l'emplacement des vidéos. Pour fermer le diapo blanc (cadre bleu), vous pouvez cliquer sur le gros - en bleu en haut à droite du diapo. Le texte souligné en vert est le lien d'invitation pour une réunion.
 
