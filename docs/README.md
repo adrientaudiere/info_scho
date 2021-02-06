@@ -52,12 +52,16 @@ Je vous conseille l'utilisation de [Zaclys](https://www.zaclys.com/) pour une ad
 
 ## Offre cloud (alternative à Dropbox, Google Agenda)
 
-[Nextcloud](https://nextcloud.com/fr_FR/) est une suite logiciel stable et très complète. Plusieurs entreprises engagées (dont [Zaclys](https://www.zaclys.com/)) vous proposent ces services à très faible prix voire gratuitement. Pour voir la liste de ces hébergeurs : aller voir le site des ... [chatons](https://chatons.org/), le  Collectif des Hébergeurs Alternatifs, Transparents, Ouverts, Neutres et Solidaires.
+[Nextcloud <i class="fa fa-nextcloud-square" aria-hidden="true"></i>](https://nextcloud.com/fr_FR/) est une suite logiciel stable et très complète. Plusieurs entreprises engagées (dont [Zaclys](https://www.zaclys.com/)) vous proposent ces services à très faible prix voire gratuitement. Pour voir la liste de ces hébergeurs : aller voir le site des ... [chatons](https://chatons.org/), le  Collectif des Hébergeurs Alternatifs, Transparents, Ouverts, Neutres et Solidaires.
 
 ## Documents partagés en ligne (alternative à Google Doc)
 
 [Cryptpad](https://cryptpad.fr/) est une solution très utile pour travailler en commun sur des documents. 
 
+## Sur un smartphone Android
+
+[/e/](https://e.foundation/fr/) est un système d'exploitation android attractif, libre et respectueux de la vie privée. [F-droid <i class="fa fa-f-droid" aria-hidden="true"></i>](https://f-droid.org/fr/) est un magasin d'application libre. [Signal <i class="fa fa-signalapp" aria-hidden="true"></i>](https://signal.org/fr/) est une alternative sécurisé à Whatsapp.
+
 ## Autres alternatives
 
-Pour rechercher des alternatives aux géants du numérique, l'agenda [Framalibre](https://framalibre.org/) de l'association [Framasoft](https://framasoft.org/fr/) est une mine d'information.
+Pour rechercher des alternatives aux géants du numérique, l'annuaire [Framalibre](https://framalibre.org/) de l'association [Framasoft](https://framasoft.org/fr/) est une mine d'information. Par exemple, [mastodon <i class="fa fa-mastodon" aria-hidden="true"></i>](https://joinmastodon.org/) est une alternative à Twitter et Facebook, [PeerTube <i class="fa fa-peertube" aria-hidden="true"></i>](https://joinpeertube.org/fr/) est une alternative à Youtube...

@@ -23,7 +23,7 @@ permettrons aux gens veulent communiquez avec vous de vous retrouver.
 !> La prochaine étape est un peu délicate, concentrez-vous. Un des principaux avantages de Element est le chiffrement de bout en bout [<i class="fa fa-wikipedia-w" aria-hidden="true"></i>](https://fr.wikipedia.org/wiki/Chiffrement_de_bout_en_bout). Pour cela, chacun de nous a besoin de générer une clé de Sécurité (attention, c'est différent du mot de passe). 
 Lors de votre première communication à l'application, Element permet de `générer une clé de sécurité`. Il faut que vous stockiez précieusement cette clé quelque part (par ex. avec un gestionnaire de mot de passe comme celui de [Firefox](https://www.mozilla.org/fr/firefox/lockwise/) ou [KeePassXC](https://keepassxc.org/)). Elle vous servira à retrouver l'historique de vos conversations si vous perdez vos comptes et à vous authentifier quand vous utiliserez un nouveau périphérique (c'est à dire un nouvel ordinateur ou smartphone).
 
-<!--  !> Pour l'instant nous allons utiliser des salons non chiffrés. Le chiffrement des discussions rends assez complexes certaines fonctionnalités. Lors de la création d'un nouveau salon il faut bien coché que l'on souhaite un salon non chiffrés. Les salons de discussions deux-à-deux sont toujours chiffrés.-->
+!> Pour l'instant nous allons utiliser des salons non chiffrés. Le chiffrement des discussions rends assez complexes certaines fonctionnalités. Lors de la création d'un nouveau salon il faut bien cocher que l'on souhaite un salon non chiffrés. Les salons de discussions deux-à-deux sont toujours chiffrés.
 
 ### Un petit tour de l'interface
 
@@ -46,7 +46,7 @@ modifier les paramètres du salon.
 
 #### Le concept des communautés
  
-Le protocole Matrix qui est utilisé par l'application Element.io permet de communiquer avec de nombreuses personnes, que ce soit sur des sujets professionnels ou privés. Pour regrouper les salons selon des thématiques on peut utiliser des communautés. Une communauté sert donc à regrouper des utilisateurs (par ex. les membres du « cercle pédago » de Scholae) qui partagent des salons communs.
+Le protocole Matrix <i class="fa fa-matrix-org" aria-hidden="true"></i> qui est utilisé par l'application Element.io permet de communiquer avec de nombreuses personnes, que ce soit sur des sujets professionnels ou privés. Pour regrouper les salons selon des thématiques on peut utiliser des communautés. Une communauté sert donc à regrouper des utilisateurs (par ex. les membres du « cercle pédago » de Scholae) qui partagent des salons communs.
 
 ?> Les communautés à Scholae serait aux nombres de deux initialement : la **communauté générale** (lycéen + adulte) et la communauté du **cercle pédago**. 
 
@@ -102,8 +102,38 @@ Par ailleurs, quand vous tapez sur la touche `entrée`, vous envoyez le message.
 
 ## Les paramètres importants
 
+Pour modifier vos paramètres il faut cliquer sur l'icône <i class="fa fa-chevron-down" aria-hidden="true"></i> à droite de votre nom puis sur <i class="fa fa-cog" aria-hidden="true"></i>  `Tous les paramètres `.
+
+Les paramètres généraux et d'apparence sont assez classiques.
+
 ### Les paramètres de notification
+
+Les notifications jouent un rôle très important dans Element. Vous pouvez choisir pour un grand nombre d'évènements différents de désactiver les notifications ou de désactiver seulement le signal sonore associé. Un des évènements s'appelle « Messages contenant des mots-clés ». En cliquant sur `mots-clé` vous pourrez définir une liste de mots séparés par une virgule qui vous alerteront. Par ex. on peut indiquer son nom, son surnom, le prénom de ces élèves, le nom de sa matière... Ces notifications permettent de mettre en valeur les discussions et les messages qui requiert le plus notre attention.
+
+Vous pouvez également choisir modifié vos paramètres de notification par salon. Pour cela au survol d'un salon, cliqué sur l'icône <i class="fa fa-bell-o" aria-hidden="true"></i> (cloche) à droite des 3 petits points puis choisissez vos paramètre pour ce salon seulement.
 
 ## Astuces
 
+### Partage de document
+
+Pour partager un document avec un salon, il suffit de faire glisser un fichier depuis un dossier sur l'application Element.io. Vous pouvez aussi cliquer sur l'icône <i class="fa fa-paperclip fa-rotate-90 fa-lg" aria-hidden="true"></i> (envoyer un fichier) en bas à droite de la zone de message.
+
+Tous les documents partagés sont disponibles en cliquant sur l'icône <i class="fa fa-info-circle" aria-hidden="true"></i> (info) en haut à droite de la vue du salon. Dans la colonne de droite qui s'affiche, il y a un lien `afficher les fichiers`.
+
+### Recherche de messages ou de fichiers
+
+Dans l'affichage d'un salon, un icône <i class="fa fa-search" aria-hidden="true"></i> (loupe) en haut à droite est disponible pour effectuer des recherches dans le salon. Vous pouvez également faire une recherche globale dans tous les salons.
+
+
+### Partage d'écran
+
 Pour partager son écran il faut cliquer sur la caméra en bas à gauche de la zone de texte tout en maintenant la touche `Maj` enfoncée.
+
+### Règle de nommage
+
+Les **utilisateurs** sont identifiés par leur pseudonyme (par. ex. adrientaudiere) mais aussi par leur serveur d'acceuil. Le nom complet d'un utilisateur suit la syntaxe suivante : <span style="color:purple;">@</span><span style="color:#c16f16;">pseudo</span><span style="color:red;">:</span><span style="color:#759f92;">serveur</span> (par ex. <span style="color:purple;">@</span><span style="color:#c16f16;">adrientaudiere</span><span style="color:red;">:</span><span style="color:#759f92;">matrix.org</span>).
+
+Chaque salon de discussion a un identifiant unique constitué d'un point d'exclamation suivis d'un nom aléatoire et du nom de serveur (par ex. !htnaet:matrix.org). L'administrateur du réseau peut assigner un alias (c'est à dire un synonyme) qui permettent de retrouver le salon plus facilement sous la forme <span style="color:purple;">#</span><span style="color:#c16f16;">nom_du_salon</span><span style="color:red;">:</span><span style="color:#759f92;">serveur</span> (par ex. <span style="color:purple;">#</span><span style="color:#c16f16;">Seconde_discu_general</span><span style="color:red;">:</span><span style="color:#759f92;">matrix.org</span>).
+
+Enfin pour les communautés (groupes d'utilisateurs) la convention syntaxique est la suivante : <span style="color:purple;">+</span><span style="color:#c16f16;">nom_de_la_communauté</span><span style="color:red;">:</span><span style="color:#759f92;">serveur</span> (par ex. <span style="color:purple;">+</span><span style="color:#c16f16;">Scholae_pédago</span><span style="color:red;">:</span><span style="color:#759f92;">matrix.org</span>).
+
