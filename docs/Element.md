@@ -48,35 +48,35 @@ modifier les paramètres du salon.
  
 Le protocole Matrix <i class="fa fa-matrix-org" aria-hidden="true"></i> qui est utilisé par l'application Element.io permet de communiquer avec de nombreuses personnes, que ce soit sur des sujets professionnels ou privés. Pour regrouper les salons selon des thématiques on peut utiliser des communautés. Une communauté sert donc à regrouper des utilisateurs (par ex. les membres du « cercle pédago » de Scholae) qui partagent des salons communs.
 
-?> Les communautés à Scholae serait aux nombres de deux initialement : la **communauté générale** (lycéen + adulte) et la communauté du **cercle pédago**. 
+?> Les communautés à Scholae serait aux nombres de quatre initialement : la communauté **Équipe_éducative_Scho** qui comprend tous les adultes impliqués dans le bon fonctionnement de Scho, et une communauté par niveau (**Seconde_Scho**, **Première_Scho** et **Terminal_Scho**) qui inclut toutes les personnes concernées par le niveau (lycéens + équipe éducative). 
 
 #### Le concept des salons
 
-Dans les logiciels de communication le concept de **salons** (= canaux sous Slack) est central. Un salon regroupe un ensemble d'utilisateurs autour d'une thématique. Dans le cadre de Scholae, nous proposons l'organisation en Salon décrite ci dessous
+Dans les logiciels de communication le concept de **salons** (= canaux sous Slack) est central. Un salon regroupe un ensemble d'utilisateurs autour d'une thématique. Dans le cadre de Scholae, nous proposons l'organisation en Salon décrite ci dessous :
 
-
-- **Communauté générale** :
+- **Seconde_Scho**
   - `Discussion générale` ![i](/_media/bagde_rect_G.svg ':class=img-in-text')
-  - Seconde
-    - `Seconde` discussion générale ![i](/_media/bagde_rect_2nd.svg ':class=img-in-text')
-    - `2nd-Matière 1` (par ex. «2nd-SNT») ![i](/_media/bagde_rect_SNT_2nd.svg ':class=img-in-text')
-    - `2nd-Matière …` 
-  - Première
-    - `Première` discussion générale ![i](/_media/bagde_rect_1er.svg ':class=img-in-text')
-    - `1-Matière 1` (par ex. «1-NSI») ![i](/_media/bagde_rect_NSI_1er.svg ':class=img-in-text')
-    - `1-Matière …` 
-  - Seconde
-    - `Terminal` discussion générale ![i](/_media/bagde_rect_Ter.svg ':class=img-in-text')
-    - `T-Matière 1` (par ex. «T-NSI») ![i](/_media/bagde_rect_NSI_Ter.svg ':class=img-in-text')
-    - `T-Matière …` 
+  - `Seconde` discussion générale ![i](/_media/bagde_rect_2nd.svg ':class=img-in-text')
+  - `2nd-Matière 1` (par ex. «2nd-SNT») ![i](/_media/bagde_rect_SNT_2nd.svg ':class=img-in-text')
+  - `2nd-Matière …`
 
-- **Cercle pédago** :
-  - `Discussion générale` ![i](/_media/bagde_G.svg ':class=img-in-text')
+- **Première_Scho**
+  - `Première` discussion générale ![i](/_media/bagde_rect_1er.svg ':class=img-in-text')
+  - `1-Matière 1` (par ex. «1-NSI») ![i](/_media/bagde_rect_NSI_1er.svg ':class=img-in-text')
+  - `1-Matière …` 
+
+- **Terminal_Scho**
+  - `Terminal` discussion générale ![i](/_media/bagde_rect_Ter.svg ':class=img-in-text')
+  - `T-Matière 1` (par ex. «T-NSI») ![i](/_media/bagde_rect_NSI_Ter.svg ':class=img-in-text')
+  - `T-Matière …` 
+
+- **Équipe_éducative_Scho** :
+  - `Discussion_générale` ![i](/_media/bagde_G.svg ':class=img-in-text')
   - `Calendrier`  ![i](/_media/bagde_cal.svg ':class=img-in-text')
-  - `Vie de l'élève` ![i](/_media/bagde_vde.svg ':class=img-in-text')
-  - `2nde` ![i](/_media/bagde_2nd.svg ':class=img-in-text')
-  - `1ère` ![i](/_media/bagde_1er.svg ':class=img-in-text')
-  - `Term` ![i](/_media/bagde_Ter.svg ':class=img-in-text')
+  - `Vie_de_l'élève` ![i](/_media/bagde_vde.svg ':class=img-in-text')
+  - `À_propos_des_2nde` ![i](/_media/bagde_2nd.svg ':class=img-in-text')
+  - `À_propos_des_1ère` ![i](/_media/bagde_1er.svg ':class=img-in-text')
+  - `À_propos_des_Term` ![i](/_media/bagde_Ter.svg ':class=img-in-text')
 
 #### Le concept des fils de discussion
 
