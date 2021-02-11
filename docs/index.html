@@ -9,7 +9,7 @@
       name="viewport"
       content="width=device-width, initial-scale=1.0, minimum-scale=1.0"
     />
-    <link rel="stylesheet" href="css/vue.css" />
+    <link rel="stylesheet" href="css/light-theme.css" />
   </head>
   <body>
     <div id="app"></div>
@@ -43,6 +43,25 @@
       if (typeof navigator.serviceWorker !== "undefined") {
         navigator.serviceWorker.register("sw.js");
       }
+    </script>
+    <script>
+      // Select the button
+      const btn = document.querySelector(".btn-toggle");
+      // Select the stylesheet <link>
+      const theme = document.querySelector("#theme-link");
+
+      // Listen for a click on the button
+      btn.addEventListener("click", function () {
+        // If the current URL contains "ligh-theme.css"
+        if (theme.getAttribute("href") == "light-theme.css") {
+          // ... then switch it to "dark-theme.css"
+          theme.href = "dark-theme.css";
+          // Otherwise...
+        } else {
+          // ... switch it to "light-theme.css"
+          theme.href = "light-theme.css";
+        }
+      });
     </script>
     <link
       rel="stylesheet"
