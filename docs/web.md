@@ -1,0 +1,3 @@
+# Alternatives sur le web
+
+Pour rechercher des alternatives aux géants du numérique, l'annuaire [Framalibre](https://framalibre.org/) de l'association [Framasoft](https://framasoft.org/fr/) est une mine d'information. Par exemple, [mastodon <i class="fa fa-mastodon" aria-hidden="true"></i>](https://joinmastodon.org/) est une alternative à Twitter et Facebook, [PeerTube <i class="fa fa-peertube" aria-hidden="true"></i>](https://joinpeertube.org/fr/) est une alternative à Youtube...

@@ -1,17 +1,26 @@
 # Element.io (tchat, alternative à Slack)
 <div class='btn-vide'>
 
-[<i class="fa fa-external-link" aria-hidden="true"></i> Application Element.io](https://app.element.io/)
+[<i class="fa fa-external-link" aria-hidden="true"></i> Application Element](https://app.element.io/)
+[<i class="fa fa-external-link" aria-hidden="true"></i> Lien direct application web](https://element.io/get-started)
 
 </div>
 
+<details open>
+
+<summary>Synthèse</i></summary>
+
+Pour utiliser l'application de communication `Element`, il faut s'**inscrire** [<i class="fa fa-question-circle-o" aria-hidden="true"></i>](#s39inscrire) sur le [site web](https://app.element.io/) de l'application en prenant bien soin de conserver sa **clé de sécurité**. Après vous êtes familiarisé avec les concepts de salon de discussion [<i class="fa fa-question-circle-o" aria-hidden="true"></i>](#le-concept-des-salons), de communauté [<i class="fa fa-question-circle-o" aria-hidden="true"></i>](#le-concept-des-communautés) et de fil de discussion [<i class="fa fa-question-circle-o" aria-hidden="true"></i>](#le-concept-des-fils-de-discussion), il vous reste à modifier vos **paramètres de notification** grâce aux mots clés. Vous serez ensuite **invité** à une (ou des) communauté(s) par les administrateurs informatiques de Scholae. Les salons auxquels vous accéderez alors dépendent de ces communautés (détails des salons et des communautés [ici](le-concept-des-salons)).
+
+</details>
+
 ## Introduction
 
-`Element.io` est une application permettant de communiquer de façon efficace et sécurisé. Cette application est une alternative à Slack très complète. Dans une même interface on peut discuter avec plusieurs groupes, partager des documents, écrire sur des documents communs et utiliser également le logiciel Jitsi pour faire des appels en visioconférence.
+`Element` est une application permettant de communiquer de façon efficace et sécurisé. Cette application est une alternative à Slack très complète. Dans une même interface on peut discuter avec plusieurs groupes, partager des documents, écrire sur des documents communs et utiliser également le logiciel Jitsi pour faire des appels en visioconférence.
 
-Un des nombreux avantages de Element.io c'est qu'on peut l'utiliser directement dans un navigateur [web](https://app.element.io/) mais qu'il existe aussi des clients pour [Android](https://play.google.com/store/apps/details?id=im.vector.app), [Iphone](https://apps.apple.com/app/vector/id1083446067), [Mac OS](https://packages.riot.im/desktop/install/macos/Element.dmg), [Windows](https://packages.riot.im/desktop/install/win32/x64/Element%20Setup.exe), et bien sûr [Linux](https://element.io/get-started).
+Un des nombreux avantages de Element c'est qu'on peut l'utiliser directement dans un navigateur [web](https://app.element.io/) mais qu'il existe aussi des clients pour [Android](https://play.google.com/store/apps/details?id=im.vector.app), [Iphone](https://apps.apple.com/app/vector/id1083446067), [Mac OS](https://packages.riot.im/desktop/install/macos/Element.dmg), [Windows](https://packages.riot.im/desktop/install/win32/x64/Element%20Setup.exe), et bien sûr [Linux](https://element.io/get-started).
 
-!> L'instance [BigBlueButton](/BBB.md) est à privilégier pour vos visioconférences longues. Pour des petits points, l'outil de visioconférence intégré à Element.io peut être utilisé.
+!> L'instance [BigBlueButton](/BBB.md) est à privilégier pour vos visioconférences longues. Pour des petits points, l'outil de visioconférence intégré à Element peut être utilisé.
 
 ## Premier pas avec Element
 
@@ -27,9 +36,9 @@ Lors de votre première communication à l'application, Element permet de `gén�
 
 ### Un petit tour de l'interface
 
-![Interface de l'application Element.io](_media/element.webp)
+![Interface de l'application Element](_media/element.webp)
 
-À droite (rectangle jaune), les **communautés** sont représentées par des badges qui vous permettent de filtrer les salons que vous regardez. Dans la colonne suivante votre nom d'utilisateur (rectangle blanc) permet, en cliquant dessus, d'ouvrir des options (mode sombres, paramètres…). Au dessous une barre de recherche permet de filtrer les salons. En cliquant sur la boussole on peut rechercher un salon public ou une personne. 
+À droite (rectangle jaune), les **communautés** sont représentées par des badges qui vous permettent de filtrer les salons que vous regardez. Dans la colonne suivante votre nom d'utilisateur (rectangle blanc) permet, en cliquant dessus, d'ouvrir des options (mode sombres, paramètres…). Au dessous une barre de recherche permet de filtrer les salons. En cliquant sur la boussole (<i class="fa fa-compass" aria-hidden="true"></i>) on peut rechercher un salon public ou une personne. 
 
 Encore en dessous (rectangle violet), vos salons sont classés selon plusieurs critères:
 - Vos salons `favoris`. Pour mettre un salon en favoris il faut survoler le salon, cliquer sur <i class="fa fa-ellipsis-h" aria-hidden="true"></i> puis sur `favoris`.
@@ -46,7 +55,7 @@ modifier les paramètres du salon.
 
 #### Le concept des communautés
  
-Le protocole Matrix <i class="fa fa-matrix-org" aria-hidden="true"></i> qui est utilisé par l'application Element.io permet de communiquer avec de nombreuses personnes, que ce soit sur des sujets professionnels ou privés. Pour regrouper les salons selon des thématiques on peut utiliser des communautés. Une communauté sert donc à regrouper des utilisateurs (par ex. les membres du « cercle pédago » de Scholae) qui partagent des salons communs.
+Le protocole Matrix <i class="fa fa-matrix-org" aria-hidden="true"></i> qui est utilisé par l'application Element permet de communiquer avec de nombreuses personnes, que ce soit sur des sujets professionnels ou privés. Pour regrouper les salons selon des thématiques on peut utiliser des communautés. Une communauté sert donc à regrouper des utilisateurs (par ex. les membres du « cercle pédago » de Scholae) qui partagent des salons communs.
 
 ?> Les communautés à Scholae serait aux nombres de quatre initialement : la communauté **Équipe_éducative_Scho** qui comprend tous les adultes impliqués dans le bon fonctionnement de Scho, et une communauté par niveau (**Seconde_Scho**, **Première_Scho** et **Terminal_Scho**) qui incluent toutes les personnes concernées par le niveau (lycéens + équipe éducative). 
 
@@ -102,9 +111,7 @@ Par ailleurs, quand vous tapez sur la touche `entrée`, vous envoyez le message.
 
 ## Les paramètres importants
 
-Pour modifier vos paramètres il faut cliquer sur l'icône <i class="fa fa-chevron-down" aria-hidden="true"></i> à droite de votre nom puis sur <i class="fa fa-cog" aria-hidden="true"></i>  `Tous les paramètres `.
-
-Les paramètres généraux et d'apparence sont assez classiques.
+Pour modifier vos paramètres il faut cliquer sur l'icône <i class="fa fa-chevron-down" aria-hidden="true"></i> à droite de votre nom puis sur <i class="fa fa-cog" aria-hidden="true"></i>  `Tous les paramètres `. Les paramètres généraux et d'apparence sont assez classiques.
 
 ### Les paramètres de notification
 
@@ -116,7 +123,7 @@ Vous pouvez également choisir modifié vos paramètres de notification par salo
 
 ### Partage de document
 
-Pour partager un document avec un salon, il suffit de faire glisser un fichier depuis un dossier sur l'application Element.io. Vous pouvez aussi cliquer sur l'icône <i class="fa fa-paperclip fa-rotate-90 fa-lg" aria-hidden="true"></i> (envoyer un fichier) en bas à droite de la zone de message.
+Pour partager un document avec un salon, il suffit de faire glisser un fichier depuis un dossier sur l'application Element. Vous pouvez aussi cliquer sur l'icône <i class="fa fa-paperclip fa-rotate-90 fa-lg" aria-hidden="true"></i> (envoyer un fichier) en bas à droite de la zone de message.
 
 Tous les documents partagés sont disponibles en cliquant sur l'icône <i class="fa fa-info-circle" aria-hidden="true"></i> (info) en haut à droite de la vue du salon. Dans la colonne de droite qui s'affiche, il y a un lien `afficher les fichiers`.
 

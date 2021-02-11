@@ -1,5 +1,8 @@
 # Documentation informatique pour le lycée Scholae
 
+Ce site a pour objectif de documenter et d'accompagner les personnes vers un usage de l'informatique respectant la raison d'être du lycée Scholae. Les principaux outils sont les applications [Element](https://app.element.io/)) [<i class="fa fa-book" aria-hidden="true"></i>](/Element.md) et [BigBlueButton](https://visio.microlinux.fr/b)) [<i class="fa fa-book" aria-hidden="true"></i>](/BBB.md). Ce site propose des solutions éthiques pour l'hébergement mail et de données sur le cloud [<i class="fa fa-book" aria-hidden="true"></i>](/mail-cloud.md) ainsi qu'un liste de ressources pour améliorer son utilisation du web [<i class="fa fa-book" aria-hidden="true"></i>](/web.md), des smartphones [<i class="fa fa-book" aria-hidden="true"></i>](/mail-cloud.md). Pour choisir l'outil de communication en fonction de votre cas, utilisez l'arbre de décision ci-dessous. 
+
+<!-- 
 <div class='btn-plein'>
 
 [<i class="fa fa-book" aria-hidden="true"></i> Doc. Element.io](/Element.md)
@@ -11,7 +14,7 @@
 [<i class="fa fa-external-link" aria-hidden="true"></i> Instance Visio](https://visio.microlinux.fr/b)
 [<i class="fa fa-external-link" aria-hidden="true"></i> App Element.io](https://app.element.io/)
 
-</div>
+</div> -->
 
 ## Arbre de décision de l'outils informatique
 <details open>
@@ -45,23 +48,3 @@
 <i class="fa fa-arrow-right"  aria-hidden="true"></i> Je peux aussi utiliser les mots clés dans mes paramètres pour être notifié quand ces mots clés sont utilisés (par ex. mon prénom, le prénom des élèves que j'ai en cours, le nom de ma discipline…) 
 
 </details>
-
-## Hébergeurs de mails (alternative à Gmail)
-
-Je vous conseille l'utilisation de [Zaclys](https://www.zaclys.com/) pour une adresse mail classique couplé à une offre cloud de stockage de fichier, gestion d'agenda... Pour des adresses mails très sécurisées, [Proton mail](https://protonmail.com/fr/) et [Tutanota](https://tutanota.com/fr) font du très bon travail.
-
-## Offre cloud (alternative à Dropbox, Google Agenda)
-
-[Nextcloud <i class="fa fa-nextcloud-square" aria-hidden="true"></i>](https://nextcloud.com/fr_FR/) est une suite logiciel stable et très complète. Plusieurs entreprises engagées (dont [Zaclys](https://www.zaclys.com/)) vous proposent ces services à très faible prix voire gratuitement. Pour voir la liste de ces hébergeurs : aller voir le site des ... [chatons](https://chatons.org/), le  Collectif des Hébergeurs Alternatifs, Transparents, Ouverts, Neutres et Solidaires.
-
-## Documents partagés en ligne (alternative à Google Doc)
-
-[Cryptpad](https://cryptpad.fr/) est une solution très utile pour travailler en commun sur des documents. 
-
-## Sur un smartphone Android
-
-[/e/](https://e.foundation/fr/) est un système d'exploitation android attractif, libre et respectueux de la vie privée. [F-droid <i class="fa fa-f-droid" aria-hidden="true"></i>](https://f-droid.org/fr/) est un magasin d'application libre. [Signal <i class="fa fa-signalapp" aria-hidden="true"></i>](https://signal.org/fr/) est une alternative sécurisé à Whatsapp.
-
-## Autres alternatives
-
-Pour rechercher des alternatives aux géants du numérique, l'annuaire [Framalibre](https://framalibre.org/) de l'association [Framasoft](https://framasoft.org/fr/) est une mine d'information. Par exemple, [mastodon <i class="fa fa-mastodon" aria-hidden="true"></i>](https://joinmastodon.org/) est une alternative à Twitter et Facebook, [PeerTube <i class="fa fa-peertube" aria-hidden="true"></i>](https://joinpeertube.org/fr/) est une alternative à Youtube...

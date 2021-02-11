@@ -1,12 +1,23 @@
 # Big Blue Button
+<div class='btn-vide'>
 
 [<i class="fa fa-external-link" aria-hidden="true"></i> Instance Visio de Scholae](https://visio.microlinux.fr/b)
 
-`Big Blue Button` (BBB) est un logiciel libre qui permet d'effectuer des appels en visio. Grâce à [Microlinux](https://microlinux.fr/) nous avons accès à notre instance BBB à [cette adresse](https://visio.microlinux.fr/b). Kikinovak a détaillé l'installation de cette instance sur son [blog](https://blog.microlinux.fr/bigbluebutton/).
+</div>
+
+<details open>
+
+<summary>Synthèse</i></summary>
+
+`Big Blue Button` (BBB) est un logiciel libre qui permet d'effectuer des appels en visio. Pour utiliser l'instance de Scholae [<i class="fa fa-external-link" aria-hidden="true"></i>](https://visio.microlinux.fr/b), il faut s'inscrire [<i class="fa fa-question-circle-o" aria-hidden="true"></i>](#Étape-1-inscription-sur-loutil-de-visio), être validé par un administrateur de Scholae, puis créer ou rejoindre des réunions [<i class="fa fa-question-circle-o" aria-hidden="true"></i>](Étape-2-se-réunir-en-démarrant-ou-en-rejoignant-une-session). 
+
+</details>
+
+
 
 ## Big Blue Button c’est quoi
 
-C'est un outil qui sert à passer des appels en visioconférence, à deux ou plusieurs. Contrairement à d'autres outils du même genre, c’est un outil éthique qui garantit la sécurité des données des utilisateurs. Il est donc **respectueux de la vie privée** du personnel de Scholae mais aussi de ses élèves.
+C'est un outil qui sert à passer des appels en visioconférence, à deux ou plusieurs. Contrairement à d'autres outils du même genre, c’est un outil éthique qui garantit la sécurité des données des utilisateurs. Il est donc **respectueux de la vie privée** du personnel de Scholae mais aussi de ses élèves. Grâce à [Microlinux](https://microlinux.fr/) nous avons accès à notre instance BBB à [cette adresse](https://visio.microlinux.fr/b). Kikinovak a détaillé l'installation de cette instance sur son [blog](https://blog.microlinux.fr/bigbluebutton/).
 
 <blockquote>
 
