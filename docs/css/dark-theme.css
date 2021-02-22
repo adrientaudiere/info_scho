@@ -20,11 +20,12 @@ _______|_______/__/ ____ \__\__|___\__\__|___\__\____
 */
 /* User-Agent Style */
 
-@import "light-theme.css"
+@import "light-theme.css";
 
 html {
   background-color: #191817 !important;
 }
+
 html,
 body,
 input,

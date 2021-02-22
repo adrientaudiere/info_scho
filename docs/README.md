@@ -31,7 +31,7 @@ Ce site a pour objectif de documenter et d'accompagner les personnes vers un usa
 <i class="fa fa-arrow-right" aria-hidden="true"></i> J'utilise une mailing list.
       
 ### <i class="fa fa-caret-right" aria-hidden="true"></i> Je veux communiquer plusieurs informations
-<i class="fa fa-arrow-right" aria-hidden="true"></i> J'identifie le salon qui concerne mon informations.
+<i class="fa fa-arrow-right" aria-hidden="true"></i> J'identifie le(s) [salon(s)](https://adrientaudiere.github.io/info_scho/#/Element?id=le-concept-des-salons) qui concerne mes informations dans l'[application Element](https://app.element.io/) ([en savoir plus sur Element](/Element.md))
 
 ### <i class="fa fa-caret-right" aria-hidden="true"></i> Je veux donner des cours à distance
 <i class="fa fa-chevron-right" aria-hidden="true"></i> **En visio exclusivement avec partage d'écran** : 
