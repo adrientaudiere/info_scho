@@ -89,7 +89,7 @@ li input[type="checkbox"] {
 }
 .app-nav {
   margin: 25px 60px 0 0;
-  position: absolute;
+  position: fixed;
   right: 0;
   text-align: right;
   z-index: 10;
@@ -420,12 +420,13 @@ body.close .content {
     position: fixed;
   }
   .app-nav {
-    margin-top: 16px;
+    padding: 8px;
+    margin: 15px;
   }
   .app-nav li ul {
     top: 30px;
   }
-  main {
+  #main {
     height: auto;
     overflow-x: hidden;
   }
@@ -472,6 +473,9 @@ body.close .content {
   .github-corner .octo-arm {
     -webkit-animation: octocat-wave 560ms ease-in-out;
     animation: octocat-wave 560ms ease-in-out;
+  }
+  .markdown-section {
+    max-width: 95%;
   }
 }
 @-webkit-keyframes octocat-wave {
@@ -586,6 +590,8 @@ section.cover .cover-main p a {
 .markdown-section .btn-vide p,
 .markdown-section .btn-plein p {
   text-align: center;
+  display: flex;
+  justify-content:space-evenly;
 }
 
 .btn-vide a {
@@ -600,10 +606,18 @@ section.cover .cover-main p a {
   font-weight: 900;
   letter-spacing: 0.1rem;
   margin: 0.25rem;
-  padding: 0.5em 0.75rem;
+  padding: 0.5em 0.75em;
   text-decoration: none;
   transition: all 0.15s ease;
-  margin: auto;
+  flex: auto;
+  max-width: 300px;
+}
+
+.btn-toggle{
+  padding: 8px;
+  margin: 15px;
+  border: 2px solid rgb(61, 61, 61);
+  border-radius: 20px;
 }
 
 details {

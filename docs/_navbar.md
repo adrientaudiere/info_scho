@@ -1,0 +1,1 @@
+<button class="btn-toggle" onclick="changeTheme()"><i class="fa fa-sun-o" aria-hidden="true"></i> <i class="fa fa-arrows-h" aria-hidden="true"></i> <i class="fa fa-moon" aria-hidden="true"></i></button>

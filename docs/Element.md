@@ -1,8 +1,8 @@
 # Element.io (tchat, alternative à Slack)
 <div class='btn-vide'>
 
-[<i class="fa fa-external-link" aria-hidden="true"></i> Application Element](https://app.element.io/)
-[<i class="fa fa-external-link" aria-hidden="true"></i> Lien direct application web](https://element.io/get-started)
+[<i class="fa fa-external-link" aria-hidden="true"></i> Info sur Element](https://app.element.io/)
+[<i class="fa fa-external-link" aria-hidden="true"></i> Appli web](https://element.io/get-started)
 
 </div>
 
@@ -29,7 +29,7 @@ Un des nombreux avantages de Element c'est qu'on peut l'utiliser directement dan
 Pour s'inscrire il faut se rendre sur l'[application web](https://app.element.io/) et de cliquer sur `Créer un compte`. Ensuite, il faut choisir un serveur, pour le moment nous allons utiliser le serveur **Matrix.org**. Peut être que plus tard nous migrerons vers notre propre serveur. Votre navigateur va sans doute vous demander un accès au stockage persistant des données. Il faut accepter pour qu'Element puisse stocker vos clés et messages sur votre ordinateur. Vous devait ensuite renseigner votre nom d'utilisateur, un mot de passe ainsi qu'un email. L'email n'est pas obligatoire mais fortement conseillé pour pouvoir redemander son mot de passe si besoin. Le nom d'utilisateur et l'email 
 permettrons aux gens veulent communiquez avec vous de vous retrouver.
 
-!> La prochaine étape est un peu délicate, concentrez-vous. Un des principaux avantages de Element est le chiffrement de bout en bout [<i class="fa fa-wikipedia-w" aria-hidden="true"></i>](https://fr.wikipedia.org/wiki/Chiffrement_de_bout_en_bout). Pour cela, chacun de nous a besoin de générer une clé de Sécurité (attention, c'est différent du mot de passe). 
+!> La prochaine étape est un peu délicate, concentrez-vous. Un des principaux avantages de Element est le chiffrement de bout en bout ([<i class="fa fa-wikipedia-w" aria-hidden="true"></i>](https://fr.wikipedia.org/wiki/Chiffrement_de_bout_en_bout)). Pour cela, chacun de nous a besoin de générer une clé de Sécurité (attention, c'est différent du mot de passe). 
 Lors de votre première communication à l'application, Element permet de `générer une clé de sécurité`. Il faut que vous stockiez précieusement cette clé quelque part (par ex. avec un gestionnaire de mot de passe comme celui de [Firefox](https://www.mozilla.org/fr/firefox/lockwise/) ou [KeePassXC](https://keepassxc.org/)). Elle vous servira à retrouver l'historique de vos conversations si vous perdez vos comptes et à vous authentifier quand vous utiliserez un nouveau périphérique (c'est à dire un nouvel ordinateur ou smartphone).
 
 ?> Pour l'instant nous allons utiliser des salons non chiffrés. Le chiffrement des discussions rends assez complexes certaines fonctionnalités. Lors de la création d'un nouveau salon il faut bien cocher que l'on souhaite un salon non chiffrés. Les salons de discussions deux-à-deux sont toujours chiffrés.
