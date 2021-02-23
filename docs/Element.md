@@ -57,35 +57,34 @@ modifier les paramètres du salon.
  
 Le protocole Matrix <i class="fa fa-matrix-org" aria-hidden="true"></i> qui est utilisé par l'application Element permet de communiquer avec de nombreuses personnes, que ce soit sur des sujets professionnels ou privés. Pour regrouper les salons selon des thématiques on peut utiliser des communautés. Une communauté sert donc à regrouper des utilisateurs (par ex. les membres du « cercle pédago » de Scholae) qui partagent des salons communs.
 
-?> Les communautés à Scholae serait aux nombres de quatre initialement : la communauté **Équipe_éducative_Scho** qui comprend tous les adultes impliqués dans le bon fonctionnement de Scho, et une communauté par niveau (**Seconde_Scho**, **Première_Scho** et **Terminal_Scho**) qui incluent toutes les personnes concernées par le niveau (lycéens + équipe éducative). 
+?> Les communautés à Scholae serait aux nombres de quatre initialement : la communauté **Équipe_éducative_Scho** qui comprend tous les adultes impliqués dans le bon fonctionnement de Scho (logo rond), et une communauté par niveau (**Seconde_Scho**, **Première_Scho** et **Terminal_Scho**) qui incluent toutes les personnes concernées par le niveau (lycéens + équipe éducative, logo carré). 
 
 #### Le concept des salons
 
-Dans les logiciels de communication le concept de **salons** (= canaux sous Slack) est central. Un salon regroupe un ensemble d'utilisateurs autour d'une thématique. Dans le cadre de Scholae, nous proposons l'organisation en Salon décrite ci dessous :
+Dans les logiciels de communication le concept de **salons** (= canaux sous Slack) est central. Un salon regroupe un ensemble d'utilisateurs autour d'une thématique. Dans le cadre de Scholae, nous proposons l'organisation en 4 **communautés** regroupant plusieurs **salons** décrits ci-dessous. À noter que la forme des symboles des salons corresponds à la présence (carré) ou non (rond) des lycéens dans les discussions. La couleur des symboles est liée à la thématique (par ex. les salons concernant les secondes en jaune). 
 
-- **Seconde_Scho**
-  - `Discussion générale` ![i](/_media/bagde_rect_G.svg ':class=img-in-text')
+- **Seconde Scho**
   - `Seconde` discussion générale ![i](/_media/bagde_rect_2nd.svg ':class=img-in-text')
   - `2nd-Matière 1` (par ex. «2nd-SNT») ![i](/_media/bagde_rect_SNT_2nd.svg ':class=img-in-text')
   - `2nd-Matière …`
 
-- **Première_Scho**
+- **Première Scho**
   - `Première` discussion générale ![i](/_media/bagde_rect_1er.svg ':class=img-in-text')
   - `1-Matière 1` (par ex. «1-NSI») ![i](/_media/bagde_rect_NSI_1er.svg ':class=img-in-text')
   - `1-Matière …` 
 
-- **Terminal_Scho**
+- **Terminale Scho**
   - `Terminal` discussion générale ![i](/_media/bagde_rect_Ter.svg ':class=img-in-text')
   - `T-Matière 1` (par ex. «T-NSI») ![i](/_media/bagde_rect_NSI_Ter.svg ':class=img-in-text')
   - `T-Matière …` 
 
-- **Équipe_éducative_Scho** :
-  - `Discussion_générale` ![i](/_media/bagde_G.svg ':class=img-in-text')
+- **Équipe éducative Scho** :
+  - `Discussion générale` ![i](/_media/bagde_G.svg ':class=img-in-text')
   - `Calendrier`  ![i](/_media/bagde_cal.svg ':class=img-in-text')
-  - `Vie_de_l'élève` ![i](/_media/bagde_vde.svg ':class=img-in-text')
-  - `À_propos_des_2nde` ![i](/_media/bagde_2nd.svg ':class=img-in-text')
-  - `À_propos_des_1ère` ![i](/_media/bagde_1er.svg ':class=img-in-text')
-  - `À_propos_des_Term` ![i](/_media/bagde_Ter.svg ':class=img-in-text')
+  - `Vie de l'élève` ![i](/_media/bagde_vde.svg ':class=img-in-text')
+  - `À_propos des 2nde` ![i](/_media/bagde_2nd.svg ':class=img-in-text')
+  - `À_propos des 1ère` ![i](/_media/bagde_1er.svg ':class=img-in-text')
+  - `À_propos des Term` ![i](/_media/bagde_Ter.svg ':class=img-in-text')
 
 #### Le concept des fils de discussion
 

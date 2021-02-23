@@ -13,10 +13,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   sodipodi:docname="bagde_G.svg"
-   inkscape:export-filename="/home/adrien/Desktop/doc_element_Scholae/docs/_media/bagde_G.png"
-   inkscape:export-xdpi="200"
-   inkscape:export-ydpi="200">
+   sodipodi:docname="bagde_equipe_edu.svg">
   <defs
      id="defs2">
     <rect
@@ -249,9 +246,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="30.931606"
-     inkscape:cy="219.55365"
+     inkscape:zoom="0.7"
+     inkscape:cx="-205.72236"
+     inkscape:cy="102.50315"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -260,11 +257,7 @@
      inkscape:window-height="1051"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0" />
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -273,7 +266,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -281,25 +274,24 @@
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-143.02342,-8.0723219)">
-    <g
-       id="g1467">
-      <rect
-         style="fill:#76862b;fill-opacity:1;stroke:none;stroke-width:1.02;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
-         id="rect833-3"
-         width="29.320446"
-         height="29.320446"
-         x="143.02342"
-         y="8.0723219"
-         rx="14.660223"
-         ry="14.660223" />
-      <text
-         xml:space="preserve"
-         id="text864-7"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:'Libre Baskerville';-inkscape-font-specification:'Libre Baskerville';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect866-6);"
-         transform="matrix(1.8027511,0,0,1.8027511,314.16027,193.2734)"><tspan
-           x="-89.984375"
-           y="-91.883942"><tspan>G</tspan></tspan></text>
-    </g>
+     transform="translate(-142.49426,-86.738319)">
+    <rect
+       style="fill:#4796a6;fill-opacity:1;stroke:none;stroke-width:1.02;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke;stop-color:#000000"
+       id="rect980"
+       width="29.320446"
+       height="29.320446"
+       x="142.49426"
+       y="86.738319"
+       rx="14.660223"
+       ry="14.660223"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <text
+       xml:space="preserve"
+       id="text984"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:'Libre Baskerville';-inkscape-font-specification:'Libre Baskerville';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect986);"
+       transform="matrix(1.8027511,0,0,1.8027511,306.05668,273.07778)"><tspan
+         x="-89.984375"
+         y="-91.883942"><tspan>Édu</tspan></tspan></text>
   </g>
 </svg>
