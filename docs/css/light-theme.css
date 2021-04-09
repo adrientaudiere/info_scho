@@ -932,3 +932,16 @@ pre::after {
 .fa-arrow-right {
   color: #e96900a6;
 }
+
+.markdown-section .faq blockquote {
+  border-left-color: rgba(210, 105, 30, 0.411);
+  color: chocolate;
+  margin: 0;
+  padding-left: 20px;
+  font-weight: 900;
+  font-size: 1.2em;
+}
+
+.markdown-section  .faq blockquote p {
+  margin: 0.2em 0;
+}

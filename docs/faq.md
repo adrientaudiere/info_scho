@@ -1,3 +1,6 @@
+<div class="faq">
+
+
 # Foire aux questions
 
 ## Element.io
@@ -25,3 +28,4 @@ Il suffit de cliquer sur l'icône <i class="fa fa-external-link" aria-hidden="tr
 - Une dernière technique consiste à cliquer sur le i (information) en haut à droite, puis sur personnes. On obtient la liste des participants au salon. En cliquant sur un participant on peut ensuite
 
 
+</div>
