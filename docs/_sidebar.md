@@ -6,4 +6,5 @@
 * [<i class="fa fa-cloud" aria-hidden="true"></i> Mail et cloud](/mail-cloud.md)
 * [<i class="fa fa-hubzilla" aria-hidden="true"></i> Web](/web.md)
 * [<i class="fa fa-mobile" aria-hidden="true"></i> Smartphone](/smartphone.md)
+* [<i class="fa fa-question-circle" aria-hidden="true"></i> FAQ](/faq.md)
 * [<i class="fa fa-info-circle" aria-hidden="true"></i> À propos](/apropos.md)

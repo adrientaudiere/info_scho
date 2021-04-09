@@ -1,8 +1,8 @@
 # Element.io (tchat, alternative à Slack)
 <div class='btn-vide'>
 
-[<i class="fa fa-external-link" aria-hidden="true"></i> Info sur Element](https://app.element.io/)
-[<i class="fa fa-external-link" aria-hidden="true"></i> Appli web](https://element.io/get-started)
+[<i class="fa fa-external-link" aria-hidden="true"></i> Info sur Element]()
+[<i class="fa fa-external-link" aria-hidden="true"></i> Appli web](https://app.element.io/)
 
 </div>
 
