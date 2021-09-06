@@ -1,6 +1,5 @@
+# Documentation Informatique du lycée SCHOLAE
 
-
-# Documentation Informatique du lycée SCHOLAE 
 <!-- ![logo](_media/logo.png) -->
 
 > Ressources pour le travail informatique au lycée privé Scholae
@@ -12,5 +11,8 @@
 [Lien application Element.io <i class="fa fa-external-link" aria-hidden="true"></i>](https://app.element.io/)
 [Lien application BBB <i class="fa fa-external-link" aria-hidden="true"></i>](https://visio.microlinux.fr/b)
 [Site de Scholae <i class="fa fa-external-link" aria-hidden="true"></i>](https://scholae.fr)
+
+[Gepi <i class="fa fa-external-link" aria-hidden="true"></i>](gepi.scholae.fr/)
+[Glassfrog <i class="fa fa-external-link" aria-hidden="true"></i>](https://fr.glassfrog.com/)
 
 ![](_media/scholae-vue-03.webp)
