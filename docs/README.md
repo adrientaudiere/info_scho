@@ -6,7 +6,7 @@ Ce site a pour objectif de documenter et d'accompagner les personnes vers un usa
 
 Parmis les outils informatiques du quotidien, [Gepi](gepi.scholae.fr/) est l'outil de gestion scolaire (notes, appréciations, devoirs...) et [glassfrog](https://fr.glassfrog.com/) est l'outil de gestion [Holacratique](https://fr.wikipedia.org/wiki/Holacratie) de la structure.
 
-Ce site propose des solutions éthiques pour l'hébergement mail et de données sur le cloud [<i class="fa fa-cloud" aria-hidden="true"></i>](/mail-cloud.md) ainsi qu'un liste de ressources pour améliorer son utilisation du web [<i class="fa fa-hubzilla" aria-hidden="true"></i>](/web.md), des smartphones [<i class="fa fa-mobile" aria-hidden="true"></i>](/mail-cloud.md). Pour choisir l'outil de communication en fonction de votre cas, utilisez l'arbre de décision ci-dessous.
+Ce site propose également des solutions éthiques pour l'hébergement mail et de données sur le [cloud <i class="fa fa-cloud" aria-hidden="true"></i>](/mail-cloud.md) ainsi qu'un liste de ressources pour améliorer son utilisation du [web <i class="fa fa-hubzilla" aria-hidden="true"></i>](/web.md), et des [smartphones <i class="fa fa-mobile" aria-hidden="true"></i>](/smartphone.md). Pour choisir l'outil de communication numérique adapté, utilisez l'arbre de décision ci-dessous.
 
 <!--
 <div class='btn-plein'>
@@ -36,8 +36,8 @@ Ce site propose des solutions éthiques pour l'hébergement mail et de données 
 <i class="fa fa-chevron-right" aria-hidden="true"></i> **Avec de nombreuses personnes** :
 <i class="fa fa-arrow-right" aria-hidden="true"></i> J'utilise une mailing list :
 
-- scholae@lists.tuxfamily.org (Tout Scholae)
-- scholae_1er_ter@framalistes.org (Les profs de 1ère et Terminal)
+- scholae@lists.tuxfamily.org (Tout Scholae, gestionnaire : Niko)
+- scholae_1er_ter@framalistes.org (Les profs de 1ère et Terminal, gestionnaires : Jean et Adrien)
 
 ### <i class="fa fa-caret-right" aria-hidden="true"></i> Je veux communiquer plusieurs informations
 
