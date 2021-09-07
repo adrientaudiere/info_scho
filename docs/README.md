@@ -1,5 +1,7 @@
 # Documentation informatique pour le lycée Scholae
 
+## Présentation
+
 Ce site a pour objectif de documenter et d'accompagner les personnes vers un usage de l'informatique respectant la raison d'être du lycée Scholae. Les principaux outils sont les applications [Element](https://app.element.io/) [<i class="fa fa-mastodon-alt" aria-hidden="true"></i>](/Element.md) et [BigBlueButton](https://visio.microlinux.fr/b) [<i class="fa fa-video-camera" aria-hidden="true"></i>](/BBB.md).
 
 Parmis les outils informatiques du quotidien, [Gepi](gepi.scholae.fr/) est l'outil de gestion scolaire (notes, appréciations, devoirs...) et [glassfrog](https://fr.glassfrog.com/) est l'outil de gestion [Holacratique](https://fr.wikipedia.org/wiki/Holacratie) de la structure.
