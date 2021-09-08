@@ -12,14 +12,34 @@ Cette configuration nécessite l'installation d'un certificat dans votre navigat
 
 ## Comment accéder à Internet ?
 
-Vous êtes libres d'utiliser Internet avec les ordinateurs de la salle info aussi bien qu'avec votre
-propre portable, mais cela nécessite dorénavant que vous fassiez une petite manipulation préalable.
+Vous êtes tous libres d’utiliser Internet avec les machines de la salle info et avec vos
+ordinateurs portables. Pour ce faire, vous devez impérativement installer le
+certificat SSL de l’école sur vos machines.
+Concrètement, il s’agit d’un fichier nommé certificat.der, que vous devez installer
+soit dans votre navigateur web, soit directement dans votre système.
 
-Cette manipulation est à faire une seule fois, et après vous êtes tranquilles.
-1. Ouvrez votre navigateur web : Firefox, Chrome, Internet Explorer, Safari, etc.
-2. Dans la barre d'adresses de votre navigateur, ouvrez la page http://proxy.scholae.lan.
-Alternativement, ouvrez cette page à l’adresse http://192.168.10.254.
-3. Suivez les instructions sur cette page.
+Voici une explication rapide pour tous les postes de la salle info, et plus
+généralement pour tous ceux qui utilisent Mozilla Firefox pour surfer sur le web :
+
+1. Lancez Mozilla Firefox.
+2. Téléchargez le certificat à l’adresse http://192.168.10.254/certificat.der.
+3. Ouvrez les Préférences de Firefox.
+4. Ouvrez l’onglet Vie privée et sécurité.
+5. Dans la section Certificats, cliquez sur Afficher les certificats.
+6. Le Gestionnaire de certificats s’affiche.
+7. Cliquez sur Importer.
+8. Ouvrez le fichier certificat.der téléchargé.
+9. Cochez les deux options Confirmer cette AC... et cliquez sur OK.
+
+En dehors de cette explication succincte, la page http://192.168.10.254 rédigée par
+mes soins contient des explications détaillées pour un certain nombre de systèmes
+(Windows, macOS, Linux, Android, iOS) et de navigateurs web (Firefox, Chrome,
+Safari, IE). Malheureusement, toutes ces configurations sont des cibles mouvantes, et
+les ingénieurs système de chez Microsoft et Apple – pour ne citer que cet exemple –
+adorent faire une refonte complète de l’ergonomie de leurs interfaces de
+configuration1 à chaque nouvelle version. Pour vos smartphones, je vous conseille
+fortement d’utiliser la 4G.
+
 
 ## Filtrage Internet
 
