@@ -48,6 +48,9 @@ des machines. Ouvrez le navigateur de fichiers, et cliquez sur l'icône correspo
 partir de là, vous accédez à vos données comme à n'importe quel fichier stocké localement sur la
 machine. Attention à un détail très important : lorsque vous avez fini de travailler, songez à
 « éjecter » votre clé, soit en cliquant sur la petite flèche « Éjecter » correspondante, soit en faisant
+un clic droit sur l'icône de la clé et en sélectionnant « Démonter » ou « Éjecter ». C'est l'équivalent
+de « Enlever en toute sécurité » sous Windows ou Mac OS X, sauf que cette opération est
+obligatoire sous Linux. Si vous ne la faites pas, vous risquez de perdre des données.
 
 
 ## Et quand j'ai fini de travailler ?
