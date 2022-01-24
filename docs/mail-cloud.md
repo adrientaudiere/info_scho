@@ -1,4 +1,7 @@
 # Mail et cloud
+
+Si cela vous intéresse vous trouverez un grand nombre de ressources en français sur le site [GoFoss](https://gofoss.net/fr/) (littéralement "En avant pour les logiciels libres").
+
 ## Hébergeurs de mails (alternative à Gmail)
 
 Je vous conseille l'utilisation de [Zaclys](https://www.zaclys.com/) pour une adresse mail classique couplé à une offre cloud de stockage de fichier, gestion d'agenda... Pour des adresses mails très sécurisées, [Proton mail](https://protonmail.com/fr/) et [Tutanota](https://tutanota.com/fr) font du très bon travail.
@@ -9,4 +12,4 @@ Je vous conseille l'utilisation de [Zaclys](https://www.zaclys.com/) pour une ad
 
 ## Documents partagés en ligne (alternative à Google Doc)
 
-[Cryptpad](https://cryptpad.fr/) est une solution très utile pour travailler en commun sur des documents. 
+[Cryptpad](https://cryptpad.fr/) est une solution très utile pour travailler en commun sur des documents.
