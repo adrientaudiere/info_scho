@@ -62,4 +62,7 @@ L'école dispose d'un accès wifi libre en dehors des heures de travail, c'est-�
 vous y connecter librement, sans authentification ou autre mot de passe. Bien évidemment, cet
 accès est également soumis au filtrage Internet.
 
+Dans certains cas, nous utilisons en système de secours une box Orange. Orange a une étrange notion des spams qui peut empêcher les mails @scholae.fr et @villa-figaret.fr de fonctionner avec vos logiciels habituels. Dans ce cas, il faut se connecter directement à l'un de ces deux sites 
 
+- https://mail.scholae.fr
+- https://mail.villa-figaret.fr
